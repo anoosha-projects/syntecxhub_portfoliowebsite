@@ -1,0 +1,2 @@
+# syntecxhub_portfoliowebsite
+syntecxhub internship project
